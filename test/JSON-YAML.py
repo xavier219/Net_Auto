@@ -2,4 +2,4 @@
 
 import pprint
 test = 'Hello'
-pprint(test)
+pprint.pprint(test)
